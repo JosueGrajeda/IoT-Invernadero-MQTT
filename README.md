@@ -25,4 +25,4 @@ Incluye scripts en **Python** para el publicador y suscriptor, así como módulo
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/IoT-Invernadero-MQTT.git
+   git clone https://github.com/JosueGrajeda/IoT-Invernadero-MQTT.git
